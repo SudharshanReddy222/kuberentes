@@ -24,8 +24,8 @@ spec:
             - name: AWS_MAIL_SERVER_HOST
               value: "smtp-service"
             - name: AWS_MAIL_SERVER_USERNAME
-              value: "AKIASUF7HC7SQJ6BCLVS"
+              value: "AKIA35U3NJXXVG6AJOU7"
             - name: AWS_MAIL_SERVER_PASSWORD
-              value: "BARcmLiC68wgmhTy/cQvz/E8vFzeizGqdeASNtCs6+Nv"
-            - name: AWS_MAIL_SERVER_FROM_ADDRESS
-              value: "stacksimplify@gmail.com"
+              value: "BLZi5xqaFEqUeWXUglK/QcMvPA2QMJMR5v/3cBxCgvDC"
+            - name: AWS_MAIL_SERVER_FROM_ADDRESSBARcmLiC68wgmhTy
+              value: "jayavardhanreddy616@gmail.com"
